@@ -50,7 +50,7 @@ impl AllPortStatus {
                 .iter()
                 .map(|i| (*i, port_details.get(*i)))
                 .collect::<Vec<_>>();
-            output.sort_by(|a, b| a.0.cmp(&b.0));
+            output.sort_by_key(|a| a.0);
             Some(output)
         } else {
             None
