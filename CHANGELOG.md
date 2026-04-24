@@ -1,7 +1,10 @@
+# <a href='https://github.com/mrjackwills/havn/releases/tag/v0.3.6'>v0.3.6</a>
+### 2026-04-24
+
 ### Chores
-+ dependencies updated, [9ff5bb81b01ecadf187776fd4d04b967dccef390]
-+ Rust 1.95.0 linting, [1b1d5c540a305c5d22178ce51130019fc7200cee]
-+ GitHub workflow updated, [a30ad8541a837200e3bac661214618986377d0bd]
++ dependencies updated, [9ff5bb81](https://github.com/mrjackwills/havn/commit/9ff5bb81b01ecadf187776fd4d04b967dccef390)
++ Rust 1.95.0 linting, [1b1d5c54](https://github.com/mrjackwills/havn/commit/1b1d5c540a305c5d22178ce51130019fc7200cee)
++ GitHub workflow updated, [a30ad854](https://github.com/mrjackwills/havn/commit/a30ad8541a837200e3bac661214618986377d0bd)
 
 # <a href='https://github.com/mrjackwills/havn/releases/tag/v0.3.5'>v0.3.5</a>
 ### 2026-03-08
